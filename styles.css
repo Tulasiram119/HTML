@@ -1,0 +1,25 @@
+p{
+    color: green;
+}
+a{
+    color: black;
+}
+li{
+    list-style-type: square;
+    widt
+}
+.special{
+    color: orange;
+    font-weight: bolder;
+}
+li em{
+    color: red;
+}
+a:hover{
+    color: gray;
+    text-decoration: none;
+}
+#id{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    
+}

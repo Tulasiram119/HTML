@@ -1,0 +1,21 @@
+main {
+    width: 200px;
+    border: 15px solid white;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 20px;
+    background-color: rgba(0, 0, 0, 0.768);
+    color: white;
+    width: 70%;
+  }
+  .input{
+    width:75%;
+  }
+  .heading{
+    text-align: center;
+  }
+  .submit{
+    width: 75%;
+    background-color: hwb(120 4% 13%);
+    color: white;
+  }
